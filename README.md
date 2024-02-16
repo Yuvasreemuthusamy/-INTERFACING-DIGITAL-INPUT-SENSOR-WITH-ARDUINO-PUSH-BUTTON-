@@ -53,6 +53,7 @@ FIGURE-02
 
 
 ![image](https://user-images.githubusercontent.com/36288975/163530437-87a0afbd-b3c9-44ad-b907-5de63486fb9d.png)
+![WhatsApp Image 2024-02-16 at 20 35 06_9dc7d13a](https://github.com/Yuvasreemuthusamy/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/144870887/de26ceaf-f740-480a-bfe0-a86d72896c1d)
 
 
 
