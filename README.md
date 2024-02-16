@@ -1,8 +1,8 @@
 ## INTERFACING DIGITAL INPUT SENSOR WITH ARDUINO PUSH BUTTON
 ## DATE :16-02-2024
-## NAME :																			             
-## ROLLNUMBER :
-## DEPARTMENT 
+## NAME : YUVA SHREE M																			             
+## ROLLNUMBER :212223230251
+## DEPARTMENT : AIDS
 
 
 ## AIM:
