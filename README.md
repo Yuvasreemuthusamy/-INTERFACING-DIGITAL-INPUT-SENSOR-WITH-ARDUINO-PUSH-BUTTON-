@@ -1,5 +1,5 @@
 ## INTERFACING DIGITAL INPUT SENSOR WITH ARDUINO PUSH BUTTON
-## DATE :
+## DATE :16-02-2024
 ## NAME :																			             
 ## ROLLNUMBER :
 ## DEPARTMENT 
@@ -53,18 +53,19 @@ FIGURE-02
 
 
 ![image](https://user-images.githubusercontent.com/36288975/163530437-87a0afbd-b3c9-44ad-b907-5de63486fb9d.png)
-![WhatsApp Image 2024-02-16 at 20 35 06_9dc7d13a](https://github.com/Yuvasreemuthusamy/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/144870887/de26ceaf-f740-480a-bfe0-a86d72896c1d)
 
 
 
 FIGURE -03
+![WhatsApp Image 2024-02-16 at 20 35 06_9dc7d13a](https://github.com/Yuvasreemuthusamy/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/144870887/6241ba5a-bf95-42a0-ae60-e4d2e4db5321)
 
 
 
 
 ## PROGRAM 
  
- 
+ ```
+```
 
 
 
@@ -82,5 +83,10 @@ FIGURE -03
 
 ## OUTPUT OF SIMULATION :
 
-[My image](username.github.com/repository/img/image.jpg)
+OFF CONDITION :
+![Screenshot (13)](https://github.com/Yuvasreemuthusamy/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/144870887/cf784aa4-fdd8-4fc0-bdfd-0dead3c55f8d)
+
+ON CONDITION :
+![Screenshot 2024-02-16 161234](https://github.com/Yuvasreemuthusamy/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/144870887/77fd259d-3ab2-4164-a89f-b150b4993c39)
+
 
