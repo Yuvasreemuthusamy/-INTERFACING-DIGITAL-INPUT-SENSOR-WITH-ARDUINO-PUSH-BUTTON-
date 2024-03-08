@@ -1,8 +1,8 @@
 ## INTERFACING DIGITAL INPUT SENSOR WITH ARDUINO PUSH BUTTON
 ## DATE :16-02-2024
-## NAME : YUVA SHREE M																			             
+## NAME : Yuva Sree M																			             
 ## ROLLNUMBER :212223230251
-## DEPARTMENT : AIDS
+## DEPARTMENT : AI-DS
 
 
 ## AIM:
@@ -113,4 +113,6 @@ OFF CONDITION :
 ON CONDITION :
 ![Screenshot 2024-02-16 161234](https://github.com/Yuvasreemuthusamy/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/144870887/77fd259d-3ab2-4164-a89f-b150b4993c39)
 
+### Result:
 
+Arduino uno analog input functioning is learned and interfaced with digital switch.
