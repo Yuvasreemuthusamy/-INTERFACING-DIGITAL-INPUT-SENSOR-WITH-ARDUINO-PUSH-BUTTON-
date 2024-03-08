@@ -56,12 +56,6 @@ FIGURE-02
 
 
 
-FIGURE -03
-![WhatsApp Image 2024-02-16 at 20 35 06_9dc7d13a](https://github.com/Yuvasreemuthusamy/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/144870887/6241ba5a-bf95-42a0-ae60-e4d2e4db5321)
-
-
-
-
 ## PROGRAM 
  
  ```
@@ -112,6 +106,10 @@ OFF CONDITION :
 
 ON CONDITION :
 ![Screenshot 2024-02-16 161234](https://github.com/Yuvasreemuthusamy/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/144870887/77fd259d-3ab2-4164-a89f-b150b4993c39)
+
+Schematic view
+
+![Screenshot 2024-02-16 162326](https://github.com/Yuvasreemuthusamy/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/144870887/82040fef-ad8a-4983-8b9e-f2fd00e0c43c)
 
 ### Result:
 
